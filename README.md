@@ -29,4 +29,4 @@ In this list we only include games if the are
 - [Colonizers (similar to Catan, probably incomplete)](https://github.com/sibartlett/colonizers)
 - [Drawphone](https://github.com/tannerkrewson/drawphone)
 - [Matchimals](https://github.com/igravitystudios/matchimals.fun)
-- 
+- [Seven Wonders](https://github.com/willcrichton/sevenwonders)
