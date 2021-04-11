@@ -21,6 +21,7 @@ In this list we only include games if the are
 
 ## Untested (pull requests are welcome)
 - [pont (similar to Qwirkle)](https://github.com/mkeeter/pont)
+- [Quirky (similar to Qwirkle)[https://github.com/jlas/quirky]
 - [mosaic (similar to AZUL)](https://github.com/maciejmatu/mosaic)
 - [secret hitler](https://github.com/cozuya/secret-hitler)
 - [Swords and Ravens (similar to "A Game of Thrones: Board Game - Second Edition")](https://github.com/Longwelwind/swords-and-ravens)
@@ -28,3 +29,4 @@ In this list we only include games if the are
 - [Colonizers (similar to Catan, probably incomplete)](https://github.com/sibartlett/colonizers)
 - [Drawphone](https://github.com/tannerkrewson/drawphone)
 - [Matchimals](https://github.com/igravitystudios/matchimals.fun)
+- 
