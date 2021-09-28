@@ -15,6 +15,7 @@ In this list we only include games if the are
 - [Tinc/Catan](https://github.com/seansegal/tincisnotcatan)
 - [Fake Artist](https://github.com/kcgidw/fao)
 - [Dixit](https://github.com/jminuscula/dixit-online)
+- [Codenames](https://github.com/jbowens/codenames)
 - raining cards games
   - [Table of bluffs (similar to Coup)](https://gitlab.com/xoria/raining-cards/-/tree/master/packages/games/table-of-bluffs)
   - [Gardeners (similar to Druids)](https://gitlab.com/xoria/raining-cards/-/tree/master/packages/games/gardeners)
